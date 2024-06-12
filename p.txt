@@ -1,0 +1,12 @@
+Different types of clouds:
+Bassically cloud systems are dividing into 3 types
+those are 
+1. public cloud
+2. private cloud
+3.Hybrid cloud
+ 
+1.Private cloud:
+         This is a type of cloud which will occess by different users as per their requirements as
+ a example most of the organizations will use private cloud to store their requirement they will
+ provide he cloud. To accrss the cloud different types of services are requirements the users 
+should send request to the services to access data as per the application requirments.
